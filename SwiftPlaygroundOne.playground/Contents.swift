@@ -26,3 +26,19 @@ var mySixthVariable = " and look I added three strings together "
 var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 print(mySeventhVariable)
 
+
+// Assignment #2 Introduction to True and False
+var appState = false
+
+print(appState)
+
+//Comparing variables using > (greater than) or < (less than)
+var numberOne = 5
+var numberTwo = 7
+
+// Create a variable that holds the comparison of the two variables we just created
+
+
+var comparison = numberOne > numberTwo
+
+
