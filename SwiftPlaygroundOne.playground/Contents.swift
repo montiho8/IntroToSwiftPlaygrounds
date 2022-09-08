@@ -41,4 +41,13 @@ var numberTwo = 7
 
 var comparison = numberOne > numberTwo
 
+var numberThree = 8
+var numberFour = 8
+
+// Create a variable that holds the equal to operator of the two variables we just created
+
+
+var compare = numberThree == numberFour
+print(compare)
+
 
